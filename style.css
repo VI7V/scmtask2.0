@@ -203,7 +203,7 @@ footer p {
 
 @media(max-width:720px){
     .text-box h1{
-        font-size: 20px;
+        font-size: 30px;
     }
     .nav-links ul li{
         display: block;
@@ -273,7 +273,7 @@ footer p {
     font-weight: 900;
 }
 .text{
-    font-size: 13px;
+    font-size: 14px;
     color: #545454;
     line-height: 30px;
     text-align: justify;
@@ -304,7 +304,7 @@ footer p {
         padding: 0;
     }
     .inner-container{
-        padding: 60px;
+        padding: 50px;
     }
 }
 
